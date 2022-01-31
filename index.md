@@ -12,7 +12,7 @@ Python 3, to download visit [pytohn.org](https://www.python.org/downloads/) and 
 
 - Navigate to folder containig you input.txt file
 - open command prompt in this folder
-- enter: python **Bold** input.py
+- enter: *python input.py*
 - open output.csv file with prefered editor
 
 ### Support
