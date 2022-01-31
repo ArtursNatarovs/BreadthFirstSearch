@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BreadthFirstSearch Pages
 
 Script is written for university students to check their BreadthFirstSearch results. 
 
@@ -6,32 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Reqirements
 
-Python 3, for installation visit [pytohn.org](https://www.python.org/downloads/)
+Python 3, to download visit [pytohn.org](https://www.python.org/downloads/) and follow instruction.
 
-```markdown
-Syntax highlighted code block
+### How to run
 
-# Header 1
-## Header 2
-### Header 3
+*Navigate to folder containig you input.txt file
+*open command prompt in this folder
+*enter: python **Bold** input.py
+*open output.csv file with prefered editor
 
-- Bulleted
-- List
+### Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArtursNatarovs/BreadthFirstSearch/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Script is in active developement.
